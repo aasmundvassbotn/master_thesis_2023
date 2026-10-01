@@ -1,0 +1,1 @@
+python -c "from DDPG.visualize_ddpg import visualize_v23; visualize_v23(folder='DDPG/checkpoints/v23', user_controlled=True)"
